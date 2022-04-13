@@ -23,4 +23,11 @@ El documento main.tex se encuentra comentado para su mejor comprensión.
 ### ¿Cómo compilar?
 Al igual que en el caso anterior, se recomienda utilizar Overleaf.
 
+## Template Entrega individual
+El documento individual debe ser anónimo y redactado en inglés.
+El template contiene una carpeta
+* Imagenes: Carpeta para colocar las imégenes usadas en el reporte, se recomienda .eps o .png
+
+### ¿Cómo compilar?
+Se recomienda utilizar Overleaf.
 
