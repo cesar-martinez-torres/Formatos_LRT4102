@@ -1,0 +1,9 @@
+<launch>
+    <!-- Lanzar el nodo turtlesim -->
+    <node name="turtlesim_node" pkg="turtlesim" type="turtlesim_node" respawn="true" output="screen" />
+
+    <!-- Lanzar el nodo controlador de la tortuga -->
+    <node name="turtle_control" pkg="beginner_tutorials" type="turtle_control.py" respawn="true" output="screen" />
+
+</launch>
+
