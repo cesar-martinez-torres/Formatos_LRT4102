@@ -26,7 +26,7 @@ Al igual que en el caso anterior, se recomienda utilizar Overleaf.
 ## Template Entrega individual
 El documento individual debe ser anónimo y redactado en inglés.
 El template contiene una carpeta
-* Imagenes: Carpeta para colocar las imégenes usadas en el reporte, se recomienda .eps o .png
+* Imagenes: Carpeta para colocar las imágenes usadas en el reporte, se recomienda .eps o .png
 
 ### ¿Cómo compilar?
 Se recomienda utilizar Overleaf.
