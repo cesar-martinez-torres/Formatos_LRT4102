@@ -1,7 +1,7 @@
 # Formatos_LRT4102
-Repositorio de formatos Tex para el curso LRT4102 Diseño de sistemas robóticos UDLAP Primavera 2022
+Repositorio de formatos Tex para el curso LRT4102 Diseño de sistemas robóticos UDLAP
 ## Introducción
-Este repositorio contiene los formatos necesarios para el curso Diseño de sistemas robóticos impartido durante el periodo de primavera 2022 en la Universidad de las Américas Puebla.
+Este repositorio contiene los formatos necesarios para el curso Diseño de sistemas robóticos impartido en la Universidad de las Américas Puebla.
 ## Template minuta para reuniones semanales (Meeting_minute)
 El template toma como base el código publicado en (http://github.com/cmichi/latex-template-collection). 
 * Es OBLIGATORIO generar una minuta después de cada reunión realizada.
