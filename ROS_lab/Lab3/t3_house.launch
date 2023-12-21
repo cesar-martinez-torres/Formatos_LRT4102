@@ -1,0 +1,8 @@
+<launch>
+  <!-- Configuración de la variable de entorno TURTLEBOT3_MODEL -->
+  <env name="TURTLEBOT3_MODEL" value="waffle_pi" />
+
+  <!-- Lanzamiento del archivo turtlebot3_house.launch -->
+  <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_house.launch" />
+</launch>
+
