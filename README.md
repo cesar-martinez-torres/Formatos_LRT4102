@@ -2,16 +2,11 @@
 Repositorio de formatos Tex para el curso LRT4102 Diseño de sistemas robóticos UDLAP
 ## Introducción
 Este repositorio contiene los formatos necesarios para el curso Diseño de sistemas robóticos impartido en la Universidad de las Américas Puebla.
-## Template minuta para reuniones semanales (Meeting_minute)
-El template toma como base el código publicado en (http://github.com/cmichi/latex-template-collection). 
-* Es OBLIGATORIO generar una minuta después de cada reunión realizada.
-* Es OBLGATORIO realizar al menos una reunión semanal. 
-* Las minutas deberán ser entregadas en Blackboard.
 
 ### ¿Cómo compilar?
-Se recomienda utilizar Overleaf para compilar el template.
+Se recomienda utilizar Overleaf para compilar todos los templates
 
-## Template Reporte final (Final_report)
+## Template Reporte final (Final_report) y Activities
 El template contiene diferentes carpetas
 * bib Incluye el archivo bibliografia.bib, es recomendable utilizar un gestor de referencias (JabRef, Zotero).
 * bst Incluye el el archivo IEEEtran.bst, el cual sirve para darle el estilo de citación de los transactions de IEEE, NO modificar para mantener el formato solicitado.
@@ -20,14 +15,9 @@ El template contiene diferentes carpetas
 
 El documento main.tex se encuentra comentado para su mejor comprensión.
 
-### ¿Cómo compilar?
-Al igual que en el caso anterior, se recomienda utilizar Overleaf.
-
 ## Template Entrega individual
 El documento individual debe ser anónimo y redactado en inglés.
 El template contiene una carpeta
 * Imagenes: Carpeta para colocar las imágenes usadas en el reporte, se recomienda .eps o .png
 
-### ¿Cómo compilar?
-Se recomienda utilizar Overleaf.
 
